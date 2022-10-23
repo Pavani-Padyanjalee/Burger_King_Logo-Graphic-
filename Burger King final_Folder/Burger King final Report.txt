@@ -1,0 +1,42 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Burger King final.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: inches
+Artboard Dimensions: 8.2678 in x 11.6929 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:
+Swiss721BT Heavy* (not installed)
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Arial Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+
+C:\Users\rMi\Desktop\logo\BK.PNG
+Type: Other
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
